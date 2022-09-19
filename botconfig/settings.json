@@ -1,0 +1,5 @@
+{
+    "voice_log_console": true,
+    "debug-logs": true,
+    "express": false
+}

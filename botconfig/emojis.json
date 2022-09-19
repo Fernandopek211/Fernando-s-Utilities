@@ -1,0 +1,97 @@
+{
+  "msg": {
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE THE NAME AND THE ID IN MSG, EXAMPLE: ⬜ --> <:progressbar_left_filled:818558865268408341>",
+
+    "ERROR" : "<:Error1:913418748105490472> ",
+    "SUCCESS" : "<a:success:902091899802910760>",
+
+    "disabled" : "<:Error1:913418748105490472> ",
+    "enabled" : "<a:success:902091899802910760>",
+    "load" : "<a:Loading2:957248138186469376>",
+
+    "addbot" : "https://discord.com/api/oauth2/authorize?client_id=941305934809010186&permissions=1099511627775&scope=bot%20applications.commands",
+    "owner" : "795885541090132008",
+    "invite" : "https://discord.gg/SzP9BdFPYF",
+    "avatarbot" : "https://images-ext-1.discordapp.net/external/rISQmnchVj-zdyJLYuRT8OewNG6ekjirkPWQAwXq0zw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/941305934809010186/1cab6fc026c9795ab2a918867d77f7c4.webp?width=431&height=431",
+
+    "progress_bar": {
+      "leftindicator": "[",
+      "rightindicator": "]",
+
+      "emptyframe": "⬜",
+      "filledframe": "🟧"
+    },
+
+    "playing": "🎶",
+    "pruning": "💬",
+    "equalizer": "🎚",
+    "cleared": "🗑",
+    "leave_on_empty": "🗣️",
+    "time": "⌛",
+    "premium": "💰",
+    "song_by": "💯",
+    "setup": "⚙️",
+    "dj": "🎧",
+    "bot": "🤖",
+    "search": "🔎",
+    "resume": "▶",
+    "pause": "⏸",
+    "lyrics": "📃",
+    "disk": "📀",
+    "ping": "🏓",
+
+    "rewind": "⏪",
+    "forward": "⏩",
+    "pause_resume": "⏯️",
+    "stop": "⏹️",
+    "previous_track": "⏮️",
+    "skip_track": "⏭️",
+    "replay_track": "🔃",
+    "reduce_volume": "🔉",
+    "raise_volume": "🔊",
+    "toggle_mute": "🔇",
+    "repeat_mode": "🔄",
+    "autoplay_mode": "♾",
+    "shuffle": "🔀",
+    "show_queue": "📑",
+    "show_current_track": "🩸"
+  },
+  "react": {
+
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE JUST THE ID IN REACT, EXAMPLE: ⏪ --> 818558865268408341",
+
+    "ERROR" : "913418748105490472",
+    "SUCCESS" : "902091899802910760",
+
+
+    "rewind": "⏪",
+    "forward": "⏩",
+    "pause_resume": "⏯️",
+    "stop": "⏹️",
+    "previous_track": "⏮️",
+    "skip_track": "⏭️",
+    "replay_track": "🔃",
+    "reduce_volume": "🔉",
+    "raise_volume": "🔊",
+    "toggle_mute": "🔇",
+    "repeat_mode": "🔄",
+    "autoplay_mode": "♾",
+    "shuffle": "🔀",
+    "show_queue": "📑",
+    "show_current_track": "🩸"
+  },
+  "em": {
+    "NewFlogo": "<:NewFlogo:967359332364722176>",
+    "Flogo": "<:Flogo:983744063696146442>",
+    "arrow": "<:arrow:905708227998670868>",
+    "dev": "<a:developer_badge1:920277896273219596>"
+  },
+  "link": {
+    "support": "https://discord.gg/SzP9BdFPYF",
+    "iduser": "795885541090132008",
+    "name": "Fernandopek21#6236",
+    "avlogo": "https://imgur.com/JnbDaTh",
+    "ab": "https://discord.com/api/oauth2/authorize?client_id=941305934809010186&permissions=8&scope=bot%20applications.commands"
+  }
+
+}

@@ -1,0 +1,51 @@
+{
+   "token": "",
+   "prefix": ">",
+   "ownerIDS": [
+      "795885541090132008"
+   ],
+   "fnbr": "43549683-4cdb-4eb5-8f1c-1b88dc82d910",
+   "fortnitetracker": "ac53a1db-3988-4cf5-888f-2518a1501abb",
+   "memer_api": "OAX58L8AY10",
+   "status": {
+      "text": "Fernando's Utilities",
+      "text2": ">help | Made by Fernandopek21#6236",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/milratodiscordbot"
+   },
+   "cmdlog": "999541888644300924",
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "57.128.136.143",
+            "port": 30191,
+            "Secure": false,
+            "identifier": "LavaLink 1",
+            "password": "leefernando"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "561dbd04c99a430891926de9d2a3c007",
+      "clientID": "1613db80ba9f4790bba00ad65841cb93"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ"
+      }
+   }
+}
